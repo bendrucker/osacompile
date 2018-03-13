@@ -1,0 +1,39 @@
+{
+  "name": "osacompile",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Writable stream to compile OSA language scripts",
+  "license": "MIT",
+  "repository": "bendrucker/osacompile",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "osa",
+    "compile",
+    "applescript",
+    "jxa",
+    "osacompile",
+    "osascript"
+  ],
+  "devDependencies": {
+    "blue-tape": "~1.0.0",
+    "end-of-stream": "~1.4.1",
+    "pify": "~3.0.0",
+    "standard": "^11.0.0",
+    "tape": "^4.0.0",
+    "tempy": "~0.2.1"
+  },
+  "files": [
+    "index.js",
+    "test.js"
+  ],
+  "dependencies": {
+    "argv-formatter": "~1.0.0"
+  }
+}
