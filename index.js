@@ -1,7 +1,7 @@
 'use strict'
 
-const {spawn} = require('child_process')
-const {Writable} = require('stream')
+const { spawn } = require('child_process')
+const { Writable } = require('stream')
 const argv = require('argv-formatter')
 
 module.exports = Osacompile
