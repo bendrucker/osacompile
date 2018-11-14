@@ -1,4 +1,4 @@
-# osacompile [![Build Status](https://travis-ci.org/bendrucker/osacompile.svg?branch=master)](https://travis-ci.org/bendrucker/osacompile)
+# osacompile [![Build Status](https://travis-ci.org/bendrucker/osacompile.svg?branch=master)](https://travis-ci.org/bendrucker/osacompile) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/osacompile.svg)](https://greenkeeper.io/)
 
 > Writable stream to compile OSA language scripts
 

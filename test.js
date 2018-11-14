@@ -2,8 +2,8 @@
 
 const test = require('blue-tape')
 
-const {createReadStream, readFile} = require('fs')
-const {resolve} = require('path')
+const { createReadStream, readFile } = require('fs')
+const { resolve } = require('path')
 const temp = require('tempy')
 const eos = require('end-of-stream')
 const pify = require('pify')
